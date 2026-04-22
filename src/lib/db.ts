@@ -1,19 +1,19 @@
-import fs from 'node:fs/promises';
-import path from 'node:path';
+// @ts-ignore
+import proverbsRaw from '../data/proverbs.txt?raw';
+// @ts-ignore
+import lessonsRaw from '../data/lessons.txt?raw';
 
-async function readDataFile(filename: string) {
-  const filePath = path.join(process.cwd(), 'src/data', filename);
-  const data = await fs.readFile(filePath, 'utf-8');
-  return data.split('\n').map(l => l.trim()).filter(line => line !== '');
+function parseLines(raw: string) {
+  return raw.split('\n').map(l => l.trim()).filter(line => line !== '');
 }
 
 export async function getFortunes() {
-  const lines = await readDataFile('proverbs.txt');
+  const lines = parseLines(proverbsRaw);
   return lines.map((message, id) => ({ id, message }));
 }
 
 export async function getLessons() {
-  const lines = await readDataFile('lessons.txt');
+  const lines = parseLines(lessonsRaw);
   const lessons = [];
   for (let i = 0; i < lines.length; i += 3) {
     if (lines[i] && lines[i+1] && lines[i+2]) {
