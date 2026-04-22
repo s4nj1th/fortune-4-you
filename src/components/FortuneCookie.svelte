@@ -23,15 +23,17 @@
     }
   }
 
-  function handleCrack() {
+  async function handleCrack() {
     if (state !== "closed" || loading) return;
 
     state = "cracking";
-    fetchFortune();
 
-    setTimeout(() => {
-      state = "open";
-    }, 600);
+    const fetchPromise = fetchFortune();
+    const timerPromise = new Promise((resolve) => setTimeout(resolve, 600));
+
+    await Promise.all([fetchPromise, timerPromise]);
+
+    state = "open";
   }
 
   function reset() {

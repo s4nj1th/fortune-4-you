@@ -2,7 +2,11 @@
   export let fortune;
   export let reset;
 
-  const { lesson } = fortune;
+  $: if (!fortune) {
+    console.warn("FortuneDisplay rendered without data");
+  }
+
+  const { lesson } = fortune || { lesson: {} };
 </script>
 
 <div
