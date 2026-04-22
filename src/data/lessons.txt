@@ -151,7 +151,7 @@ Painful.
 Uncomfortable. 
     不舒服。
     bù shūfú
-Itchy/ticklish. 
+Itchy / ticklish. 
     痒。
     yǎng
 Sore (In muscle strains). 
@@ -167,15 +167,15 @@ Sneeze.
     打喷嚏 
     dǎ pēntì
 Diarrhoea. 
-    泻肚子/拉肚子
-    xiè dùzi/lā dùzi
+    泻肚子 / 拉肚子
+    xiè dùzi / lā dùzi
 Running nose. 
     流鼻涕
     liú bítì
 Phlegm. 
     痰。
     tán
-Hands/Arms. 
+Hands / Arms. 
     手。
     shǒu
 Fingers. 
@@ -221,8 +221,8 @@ Head.
     头。
     tóu
 Neck. 
-    颈项/脖子。
-    jǐngxiàng/bózi
+    颈项 / 脖子。
+    jǐngxiàng / bózi
 Throat. 
     喉咙。
     hóulóng
@@ -232,7 +232,7 @@ Chest.
 Abdomen. 
     肚子。
     dùzi
-Hip/Waist. 
+Hip / Waist. 
     腰。
     yāo
 Buttocks. 
@@ -436,7 +436,7 @@ noon
 afternoon 
     下午
     xiàwǔ 
-evening/night 
+evening / night 
     晚上
     wǎnshàng 
 midnight
@@ -658,7 +658,7 @@ Taxi driver
 Please use the meter machine
     请打表 
     qǐng dǎbiǎo 
-Please turn up the aircon/heater
+Please turn up the aircon / heater
     请空调开大点儿。 
     qǐng kōngtiáo kāi dàdiǎn(r) 
 left 
@@ -718,7 +718,7 @@ Toilet
     Smoking 
 吸烟 
 xīyān
-    cubed/diced
+    cubed / diced
     丁 
 dīng
     thinly sliced
@@ -727,7 +727,7 @@ piàn
     shredded
     丝 
 sī
-    chunk/cut into bite-sized pieces
+    chunk / cut into bite-sized pieces
     块 
 kuài
     curled
@@ -742,7 +742,7 @@ zhá or zhà
     dry-roasted
     烤 
 kăo
-    roasted w/ sauce
+    roasted w /  sauce
     烧 
 shāo
 Do you have any rooms available? 
@@ -892,9 +892,9 @@ natural mineral water
 beer 
     啤酒 
     píjiŭ 
-red/white wine 
-    红/白 葡萄 酒 
-    hóng/bái pútáo jiŭ 
+red / white wine 
+    红 / 白 葡萄 酒 
+    hóng / bái pútáo jiŭ 
 It was delicious. 
     好吃极了。 
     hǎochī jí le 
@@ -907,12 +907,12 @@ Do you serve alcohol?
 Is there table service? 
     有没有餐桌服务？ 
     yǒu méiyǒu cānzhuō fúwù?
-A beer/two beers, please. 
-    请给我一杯/两杯啤酒。
-    qǐng gěiwǒ yìbēi/liǎngbēi píjiǔ
-A glass of red/white wine, please. 
-    请给我一杯红/白葡萄酒。
-    qǐng gěi wǒ yìbēi hóng/bái pútáojiǔ
+A beer / two beers, please. 
+    请给我一杯 / 两杯啤酒。
+    qǐng gěiwǒ yìbēi / liǎngbēi píjiǔ
+A glass of red / white wine, please. 
+    请给我一杯红 / 白葡萄酒。
+    qǐng gěi wǒ yìbēi hóng / bái pútáojiǔ
 A pint, please. 
     请给我一品脱。
     qǐng gěi wǒ yìpǐntuō
@@ -963,7 +963,7 @@ Another round, please.
     qǐng zàilái yìlún
 When is closing time? 
     几点打烊、关门？ 
-    jǐdiǎn dǎyáng/guānmén?
+    jǐdiǎn dǎyáng / guānmén?
 Where is the toilet? 
     厕所在哪里 
     cèsuǒ zài nǎli?
@@ -1123,12 +1123,12 @@ Where are you taking me?
 Am I under arrest? 
     我被捕了吗？ 
     wǒ bèibǔle ma?
-I am an American/Australian/British/Canadian citizen. 
-    我是 美国/澳洲/英国/加拿大 公民。 
-    wǒ shì měiguó/àozhōu/yīngguó/jiānádà gōngmín
-I want to talk to the American/Australian/British/Canadian embassy/consulate. 
-    我希望跟 美国/澳洲/英国/加拿大 的 大使馆/领事馆 联系。 
-    wǒ xīwàng gēn měiguó/àozhōu/yīngguó/jiānádà de dàshǐguǎn/lǐngshìguǎn liánxì
+I am an American / Australian / British / Canadian citizen. 
+    我是 美国 / 澳洲 / 英国 / 加拿大 公民。 
+    wǒ shì měiguó / àozhōu / yīngguó / jiānádà gōngmín
+I want to talk to the American / Australian / British / Canadian embassy / consulate. 
+    我希望跟 美国 / 澳洲 / 英国 / 加拿大 的 大使馆 / 领事馆 联系。 
+    wǒ xīwàng gēn měiguó / àozhōu / yīngguó / jiānádà de dàshǐguǎn / lǐngshìguǎn liánxì
 I want to talk to a lawyer. 
     我希望跟律师联系。
     wǒ xīwàng gēn lǜshī liánxì
@@ -1138,9 +1138,9 @@ Can I just pay a fine now?
 Can I make international calls here? 
     可以打国际电话吗? 
     kěyǐ dǎ guójì diànhuà ma?
-How much is it to America/Australia/Britain/Canada? 
-    打给 美国/澳洲/英国/加拿大 是多少钱?
-    dǎgěi měiguó/àozhōu/yīngguó/jiānádà shì duōshǎo qián?
+How much is it to America / Australia / Britain / Canada? 
+    打给 美国 / 澳洲 / 英国 / 加拿大 是多少钱?
+    dǎgěi měiguó / àozhōu / yīngguó / jiānádà shì duōshǎo qián?
 Where can I find an Internet cafe? 
     哪里有网吧? 
     nǎlǐ yǒu wǎng ba?
